@@ -10,9 +10,36 @@ Iremos trabalhar os conceitos fornecidos pelo [guia do exame](https://aws.amazon
 
 Você pode seguir apenas esse guia, mas também terá alguns outros conteúdos indicados para auxiliá-lo, tanto em português (PT-BR) quando inglês (EN).
 
+## Conteúdo
+* ✔️ - `Incluido`
+* ☁️ - `Em construção`
+* ❌ - `Não incluido`
+
+| Material                                               | Incluido |
+|:------------------------------------------------------:|----------|
+| Cloud Computing                                        |    ☁️    |
+| AWS Cloud use cases                                    |    ❌    |
+| AWS Global Infrastructure                              |    ❌    |
+| Shared Responsibility Model                            |    ❌    |
+| IAM - Identity and Access Management                   |    ❌    |
+| AWS EC2 - Elastic Cloud Computing                      |    ❌    |
+| AWS S3 - Simple Storage Service                        |    ❌    |
+| Databases & Abalytics                                  |    ❌    |
+| Other Compute Services                                 |    ❌    |
+| Deploying and Managing Infrastructure at Scale Section |    ❌    |
+| Cloud Integrations                                     |    ❌    |
+| Cloud Monitoring                                       |    ❌    |
+| VPN & Networking                                       |    ❌    |
+| Security & Compliance                                  |    ❌    |
+| Machine Learning                                       |    ❌    |
+| Account Management, Billing & Support                  |    ❌    |
+| Advanced Identity                                      |    ❌    |
+| Other Services                                         |    ❌    |
+| AWS Architecting & Ecosystem                           |    ❌    |
+
 ## Dúvidas, contribuições e contato.
 
-Caso tenha alguma dúvida sobre algum tópico que não foi abordado nesse guia, você pode entrar em contato comigo diretamente pelo [linkedin](www.linkedin.com/in/luis-ricardo-palharini-539296228).
+Caso tenha alguma dúvida sobre algum tópico que não foi abordado nesse guia, você pode entrar em contato comigo diretamente pelo [linkedin](https://www.linkedin.com/in/luis-ricardo-palharini-539296228/).
 
 Se tiver alguma sugestão, sinta-se avontade para entrar em contato para melhorarmos esse conteúdo!
 
