@@ -43,6 +43,23 @@
 
 - **Definição**: Software como Serviço (SaaS), é um modelo de negócio e entrega de software. Onde todo o produto é executado e gerenciado pelo provedor de serviço.
 
+# Exemplos de serviços para cada tipo
+
+- IaaS
+    - Amazon EC2
+    - GCP
+    - Azure
+    - Digital Ocean
+    - Linode
+    - Rackspace
+- PaaS
+    - Elastic Beanstalk
+    - Hroku
+    - Google App Engine (GCP)
+    - Windows Azure
+- SaaS
+    - Many AWS services (ex: Rekognition)
+
 ## Referências
 - IaaS
     - https://www.oracle.com/br/cloud/what-is-iaas/#:~:text=Infraestrutura%20como%20servi%C3%A7o%20(IaaS)%20%C3%A9,nuvem%20privada%20ou%20nuvem%20h%C3%ADbrida.
