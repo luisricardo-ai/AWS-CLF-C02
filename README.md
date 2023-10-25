@@ -17,7 +17,7 @@ Você pode seguir apenas esse guia, mas também terá alguns outros conteúdos i
 
 | Material                                               | Incluido |
 |:------------------------------------------------------:|----------|
-| Cloud Computing                                        |    ☁️    |
+| [Cloud Computing](./conteudos/cloud_computing.md)      |    ☁️    |
 | AWS Cloud use cases                                    |    ❌    |
 | AWS Global Infrastructure                              |    ❌    |
 | Shared Responsibility Model                            |    ❌    |
