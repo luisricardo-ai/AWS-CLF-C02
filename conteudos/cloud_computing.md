@@ -1,9 +1,9 @@
 # Cloud Computing | Computação em Nuvem
 
 ![Tipos de computação em nuvem](../imgs/types-cloud-computing.png)
+---
 
-
-### Infrastructure as a Service (IaaS)
+### 💾 Infrastructure as a Service (IaaS)
 
 - **Definição**: Infraestrutura como Serviço (IaaS), é um modelo de serviço de computação em nuvem, usado para fornecer recursos de computação, armazenamento, rede, entre outros. `Assim podemos focar apenas no provisionamento/pernozalização desses recursos, e não precisamos nos preocupar com a manutenção dos mesmos, assim focando em outros pontos, como na imagem acima`.
 
@@ -21,8 +21,9 @@
 
 - **Custo**
     - IaaS é um modelo de computação no qual os clientes pagam apenas pelos recursos que são usados.
+---
 
-### Plataform as a Service (PaaS)
+### 💻 Plataform as a Service (PaaS)
 
 - **Definição**: Plataforma como Serviço (PaaS), é um modelo de serviço de computação em nuvem, onde fornecemos tudo o que os desenvolvedores vão precisar para poderem desenvolver, implantar, executar e gerenciar suas aplicações. Sem que os mesmos precisem se preocupar com SO (Sitema operacional) e suas atualizações, ferramentas de desenvolvimento ou manter hardware.
 
@@ -36,8 +37,11 @@
     - Manutenção reduzida
     - Escalabilidade
     - Segurança compartilhada
+---
 
-### Software as a Service (SaaS)
+### 🌐 Software as a Service (SaaS)
+
+- **Definição**: Software como Serviço (SaaS), é um modelo de negócio e entrega de software. Onde todo o produto é executado e gerenciado pelo provedor de serviço.
 
 ## Referências
 - IaaS
@@ -46,3 +50,5 @@
     - https://aws.amazon.com/pt/what-is/iaas/
 - PaaS
     - https://cloud.google.com/learn/what-is-paas?hl=pt-br
+- SaaS
+    - https://aws.amazon.com/pt/solutions/saas/
