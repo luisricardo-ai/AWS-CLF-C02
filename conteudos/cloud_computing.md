@@ -54,7 +54,7 @@
     - Rackspace
 - PaaS
     - Elastic Beanstalk
-    - Hroku
+    - Heroku
     - Google App Engine (GCP)
     - Windows Azure
 - SaaS

@@ -15,27 +15,26 @@ Você pode seguir apenas esse guia, mas também terá alguns outros conteúdos i
 * ☁️ - `Em construção`
 * ❌ - `Não incluido`
 
-| Material                                               | Incluido |
-|:------------------------------------------------------:|----------|
-| [Cloud Computing](./conteudos/cloud_computing.md)      |    ☁️    |
-| AWS Cloud use cases                                    |    ❌    |
-| AWS Global Infrastructure                              |    ❌    |
-| Shared Responsibility Model                            |    ❌    |
-| IAM - Identity and Access Management                   |    ❌    |
-| AWS EC2 - Elastic Cloud Computing                      |    ❌    |
-| AWS S3 - Simple Storage Service                        |    ❌    |
-| Databases & Abalytics                                  |    ❌    |
-| Other Compute Services                                 |    ❌    |
-| Deploying and Managing Infrastructure at Scale Section |    ❌    |
-| Cloud Integrations                                     |    ❌    |
-| Cloud Monitoring                                       |    ❌    |
-| VPN & Networking                                       |    ❌    |
-| Security & Compliance                                  |    ❌    |
-| Machine Learning                                       |    ❌    |
-| Account Management, Billing & Support                  |    ❌    |
-| Advanced Identity                                      |    ❌    |
-| Other Services                                         |    ❌    |
-| AWS Architecting & Ecosystem                           |    ❌    |
+| Material                                                           | Incluido |
+|:------------------------------------------------------------------:|----------|
+| [Cloud Computing](./conteudos/cloud_computing.md)                  |    ✔️    |
+| [AWS Global Infrastructure ](./conteudos/global_infrastructure.md) |    ☁️    |
+| Shared Responsibility Model                                        |    ❌    |
+| IAM - Identity and Access Management                               |    ❌    |
+| AWS EC2 - Elastic Cloud Computing                                  |    ❌    |
+| AWS S3 - Simple Storage Service                                    |    ❌    |
+| Databases & Abalytics                                              |    ❌    |
+| Other Compute Services                                             |    ❌    |
+| Deploying and Managing Infrastructure at Scale Section             |    ❌    |
+| Cloud Integrations                                                 |    ❌    |
+| Cloud Monitoring                                                   |    ❌    |
+| VPN & Networking                                                   |    ❌    |
+| Security & Compliance                                              |    ❌    |
+| Machine Learning                                                   |    ❌    |
+| Account Management, Billing & Support                              |    ❌    |
+| Advanced Identity                                                  |    ❌    |
+| Other Services                                                     |    ❌    |
+| AWS Architecting & Ecosystem                                       |    ❌    |
 
 ## Dúvidas, contribuições e contato.
 
