@@ -8,7 +8,7 @@ Iremos trabalhar os conceitos fornecidos pelo [guia do exame](https://aws.amazon
 
 ![Conceitos do Exame](/imgs/conceitos-exame.png)
 
-Você pode seguir apenas esse guia, mas também terá alguns outros conteúdos indicados para auxiliá-lo, tanto em português (PT-BR) quando inglês (EN).
+Você pode seguir apenas esse guia, mas também terá alguns outros conteúdos indicados para auxiliá-lo, tanto em português (PT-BR) quanto inglês (EN).
 
 ## Conteúdos
 * ✔️ - `Incluido`
