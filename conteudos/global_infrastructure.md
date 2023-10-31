@@ -6,12 +6,14 @@ Para entendermos a estrutura global da AWS, temos que entender algumas divisões
 
 - AWS Regions (Regiões)
 - AWS Availability Zones (Zonas de Disponibilidade)
-- AWS Data Centers
 - AWS Edge Locations (Pontos de presença)
+- AWS Global services
 
 ## AWS Regions
 
 - **O que é?** O conceito de região vem pela associação de um local físico onde os datacenters lógicos estão agrupados. Cada região é composta de pelo menos `3 AZs`, que ficam isoladas uma das outras. `A maioria dos serviços da AWS tem escopo regional.`
+
+- [Serviços por região](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/?nc1=h_ls)
 
 ## AWS Availability Zones
 
@@ -20,6 +22,12 @@ Para entendermos a estrutura global da AWS, temos que entender algumas divisões
 - Elas ficam separadas em um raio de 100 Km entre si, tendo um conexão física, para proporsionar alta disponibilidade, prevensão de desastres naturais. 
 
 ![AZs](../imgs/availability-zones.png)
+
+## AWS Edge Locations
+
+- **O que é?** É uma forma de entregar conteúdo/serviços ao usuário final com o mínimo de latência possível, seja levando a infraestrutura mais próxima dele no modelo de [CDN](https://aws.amazon.com/cloudfront/).
+
+![Points of presence](../imgs/aws-points-of-presence.png)
 
 ## Referências
 

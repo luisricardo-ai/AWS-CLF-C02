@@ -18,8 +18,8 @@ Você pode seguir apenas esse guia, mas também terá alguns outros conteúdos i
 | Material                                                           | Incluido |
 |:------------------------------------------------------------------:|----------|
 | [Cloud Computing](./conteudos/cloud_computing.md)                  |    ✔️    |
-| [AWS Global Infrastructure ](./conteudos/global_infrastructure.md) |    ☁️    |
-| Shared Responsibility Model                                        |    ❌    |
+| [AWS Global Infrastructure ](./conteudos/global_infrastructure.md) |    ✔️    |
+| Shared Responsibility Model                                        |    ☁️    |
 | IAM - Identity and Access Management                               |    ❌    |
 | AWS EC2 - Elastic Cloud Computing                                  |    ❌    |
 | AWS S3 - Simple Storage Service                                    |    ❌    |
