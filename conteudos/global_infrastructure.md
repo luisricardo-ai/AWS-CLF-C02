@@ -29,6 +29,15 @@ Para entendermos a estrutura global da AWS, temos que entender algumas divisões
 
 ![Points of presence](../imgs/aws-points-of-presence.png)
 
+
+## AWS Global services
+
+- A AWS possui alguns serviços que tem escopo global, sendo eles:
+    - IAM (Identity and Access Management)
+    - Route 53 (DNS service)
+    - CLoudFront (CDN service)
+    - WAF (Web Application Firewall)
+
 ## Referências
 
 - https://aws.amazon.com/pt/about-aws/global-infrastructure/?p=ngi&loc=1
